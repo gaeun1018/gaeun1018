@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 성장하는 개발자  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 이미지 인식 기술을 통해 실세상의 문제를 해결하는 것에 가치를 둡니다.    </li>데이터의 흐름을 이해하고, 논리적인 코드로 증명하는 과정을 기록하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 기술을 통해 실세상의 문제를 해결하는 것에 가치를 둡니다.    </li>데이터의 흐름을 이해하고, 논리적인 코드로 증명하는 과정을 기록하고 있습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
